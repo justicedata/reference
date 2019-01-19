@@ -30,7 +30,7 @@
 
 ##### _R Packages you don´t probably know and you should use_
 - [tidyverse](https://www.tidyverse.org/): okay I know you already know it but do you use ´purrr´too? Recheck the link, I'm sure you'll find something new.
-- [here](https://cran.r-project.org/web/packages/here/index.html): no more ´setwd()´. 
+- [here](https://cran.r-project.org/web/packages/here/index.html): no more `setwd(). 
 - [pwr](https://cran.r-project.org/web/packages/pwr/pwr.pdf): classical statistics can be easy too :).
 - [shinydashboard](https://rstudio.github.io/shinydashboard/): easy dashboards in Shiny!
 - [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/): easy dashboards in Rmarkdown!
