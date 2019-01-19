@@ -12,7 +12,7 @@
 
 #### Mixed interesting topics
 
-- [Shared folder in Google Drive](https://drive.google.com/drive/u/2/folders/1M-lLxvZh1b_h3H4rWZg4nayPHAI7LD3Z): the idea is having all of our (_pirates_) books in one, common place, easy to find and use. 
+- [Shared folder in Google Drive](https://drive.google.com/drive/u/2/folders/1M-lLxvZh1b_h3H4rWZg4nayPHAI7LD3Z): the idea is having all of our (~~pirates~~) books in one, common place, easy to find and use. 
 
 #### Online books
 
