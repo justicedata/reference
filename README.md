@@ -16,6 +16,6 @@
 
 #### Online books
 
-##### _about R_
+##### _About R_
 - [R for Data Science](https://r4ds.had.co.nz/): a nice introduction to the tidyverse and R in general by the man himself.
 - [Advanced R](http://adv-r.had.co.nz/): you didn´t have enough? Here you go. More R. More Hadley.
