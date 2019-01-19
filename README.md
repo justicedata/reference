@@ -10,7 +10,7 @@
 
 ### Bibliography
 
-#### Mixed interesnting themes
+#### Mixed interesting topics
 
 - [Shared folder in Google Drive](https://drive.google.com/drive/u/2/folders/1M-lLxvZh1b_h3H4rWZg4nayPHAI7LD3Z). The idea is having all of our (pirates) books in one, common place, easy to find and use. 
 
