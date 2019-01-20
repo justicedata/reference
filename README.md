@@ -7,6 +7,7 @@
  - [Coding style](http://adv-r.had.co.nz/Style.html) (the whole book is interesting but that chapter is essential to start working togeher).
 - [Project folder structure](https://nicercode.github.io/blog/2013-04-05-projects/): this is not set in stone and should be openly discussed and improved.
 - [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/).
+- [Madrid Open Data Portal](https://datos.madrid.es/portal/site/egob/).
 
 ### Bibliography
 
