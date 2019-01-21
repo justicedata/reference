@@ -8,7 +8,7 @@
 - [Project folder structure](https://nicercode.github.io/blog/2013-04-05-projects/): this is not set in stone and should be openly discussed and improved.
 - [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/).
 - [Madrid Open Data Portal](https://datos.madrid.es/portal/site/egob/).
-- [Iniciativa de **datos abiertos** del Gobierno de España](https://datos.gob.es/es).
+- [Iniciativa de *datos abiertos* del Gobierno de España](https://datos.gob.es/es).
 
 ### Bibliography
 
